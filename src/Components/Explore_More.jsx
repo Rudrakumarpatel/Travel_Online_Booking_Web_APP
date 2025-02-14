@@ -2,7 +2,7 @@ import React from 'react'
 
 function Explore_More() {
   return (
-    <div className="mt-3 w-4/5  h-64 rounded-xl bg-slate-50 z-10 relative bottom-16 p-7 flex flex-row flex-wrap justify-between shadow-2xl font-semibold text-[1.1rem]">
+    <div className=" relative mt-3 w-4/5  h-64 rounded-xl bg-slate-50 z-10 bottom-16 p-7 flex flex-row flex-wrap justify-between shadow-2xl font-semibold text-[1.1rem]">
       <div className="flex text-center items-center gap-2 w-1/3">
         <img src="https://promos.makemytrip.com/store/GoaDT.JPG" alt="Goa-image"  className="rounded-full" />
         <p>Goa</p>

@@ -6,9 +6,10 @@ import { FiFacebook } from "react-icons/fi";
 
 function Footer() {
   return (
-    <div className="flex flex-col justify-between h-96  border-2 border-blue-500 flex-grow shadow-2xl">
+    <div className="flex flex-col justify-between h-96  border-2 border-blue-500 flex-grow shadow-2xl relative w-full top-14
+    ">
       <div>
-        
+      
       </div>
       <div className="bg-black flex justify-between  text-white h-1/3">
       <div className="flex flex-row justify-between w-full ml-10">
